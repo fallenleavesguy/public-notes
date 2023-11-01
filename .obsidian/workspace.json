@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "e2a8fee8bcca1c3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae8e8b41bb42539b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb770ecd62030486",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c1571b8ee6b4a397",
+    "type": "split",
+    "children": [
+      {
+        "id": "bee9fcdd933e0b94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51485c19f8356ade",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1eca28585cc4840d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dsf",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "280429cd4ccb0971",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bc9e541ad16917b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b66f4e69f6a44f21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1595f744201ae61",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0be5720afe0a065",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f5f8abbda2e3be67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ffb5322e73ca2c3f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bb770ecd62030486",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled",
+    "Untitled.canvas",
+    "工作/Untitled",
+    "工作/光证/emo/记录.md",
+    "2023-11-01.md",
+    "2023-10-17.md",
+    "工作/光证",
+    "工作",
+    "工作/光证/emo"
+  ]
+}
